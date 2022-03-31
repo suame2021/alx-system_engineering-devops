@@ -1,0 +1,1 @@
+Scrippt prints working directory
