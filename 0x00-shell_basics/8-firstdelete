@@ -1,2 +1,5 @@
 #!/bin/bash
 rm /tmp/my_first_directory/betty
+[main 196b40a] bye Betty
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+ mode change 100755 => 100644 0x00-shell_basics/8-firstdelete
